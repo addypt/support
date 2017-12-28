@@ -47,8 +47,8 @@ How-to request
 <!-- Also, please tell us the following: -->
 
 **Environment**:
-- Hasura project type: (local/free-trial/DigitalOcean/GCP/GKE/AWS/other)
+- Hasura project type: (hpdf/local/free-trial/DigitalOcean/GCP/GKE/AWS/other)
 - OS: (Ubuntu/Mac/Windows..)
 - Browser (if this issue is related to the console)
-- hasuractl version (if applicable)
+- hasura CLI version (if applicable)
 - kubectl version (if applicable)
