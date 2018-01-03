@@ -47,7 +47,8 @@ How-to request
 <!-- Also, please tell us the following: -->
 
 **Environment**:
-- Hasura project type: (hpdf/local/free-trial/DigitalOcean/GCP/GKE/AWS/other)
+- Hasura cluster type: (hpdf/local/free-trial/DigitalOcean/GCP/GKE/AWS/other)
+- Hasura cluster name (if applicable):
 - OS: (Ubuntu/Mac/Windows..)
 - Browser (if this issue is related to the console)
 - hasura CLI version (if applicable)
