@@ -1,6 +1,6 @@
-**Is this a BUG REPORT or a FEATURE REQUEST or a HOWTO REQUEST?**:
-
-> Choose only one, leave it on its own line. Delete the others: 
+<!--
+Is this a BUG REPORT or a FEATURE REQUEST or a HOWTO REQUEST? Choose only one, leave it on its own line. Delete the others:
+-->
 /kind bug
 /kind feature
 /kind howto
@@ -9,6 +9,8 @@
 Please delete the sections that are not relevant to the kind of issue. Eg: If you're submitting a feature request, please
 delete the "BUG REPORT" section and the "HOW-TO REQUEST" section.
 -->
+
+<!-- /kind bug questions -->
 
 Bug report
 ----------
@@ -47,9 +49,11 @@ How-to request
 <!-- Also, please tell us the following: -->
 
 **Environment**:
-- Hasura cluster type: (hpdf/local/free-trial/DigitalOcean/GCP/GKE/AWS/other)
-- Hasura cluster name (if applicable):
-- OS: (Ubuntu/Mac/Windows..)
-- Browser (if this issue is related to the console)
-- hasura CLI version (if applicable)
-- kubectl version (if applicable)
+
+- Cluster type: <!-- (hpdf/local/free-trial/DigitalOcean/GCP/GKE/AWS/other) -->
+- Cluster name: <!-- if applicable -->
+- OS/Arch/Version: <!-- e.g. Ubuntu 64-bit 16.04/MacOS 64-bit 10.0.3/Windows 10 64-bit Build 10240) -->
+- Browser/Version: <!-- if this issue is related to the console/cli login, e.g. Chrome 64/Firefox 57.0.3 -->
+- hasura CLI version: <!-- if applicable, e.g. v0.2.30 -->
+- Git Bash version (for Windows): <!-- if applicable -->
+- kubectl version: <!-- if applicable, e.g. v1.8.3 -->
